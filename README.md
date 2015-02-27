@@ -8,4 +8,4 @@ Consta de dos aplicaciones:
 Autor: Carlos E. Jimenez  
 Creador de PlayLua  
 
-Todo este trabajo fue elaborado por Carlos E. Jimenez y esta licenciado bajo Creative Commons con las condiciones Attribution Non-Commercial No Derivatives.
+Todo este trabajo fue elaborado por Carlos E. Jimenez y esta licenciado bajo Creative Commons con las condiciones Attribution/ Non-Commercial/ No Derivatives.
