@@ -2,8 +2,8 @@
 Este trabajo es una prueba "hola mundo" que he construido para probar la funcionalidad de una nube.
 
 Consta de dos aplicaciones:
-1) Agenda telefonica
-2) Calculo (sumatoria o productoria)
+1) Agenda telefonica.
+2) Calculo (sumatoria o productoria).
 
 Autor: Carlos E. Jimenez (Creador de PlayLua)
 
