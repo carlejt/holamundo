@@ -8,13 +8,13 @@
 <?php
 
 $n = $_POST['numero'];
-$acum = 1;
+$acum = 0;
 
 for ($x = 1; $x <= $n; $x++) {
-   $acum = $acum * $x;
+   $acum = $acum + $x;
 }
 
-echo("PRODUCTORIA (" . $n . ") = " . $acum . "<br>");
+echo("SUMATORIA (" . $n . ") = " . $acum . "<br>");
 ?>
 
 <br><br>
