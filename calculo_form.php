@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<b> Calculo (PRODUCTORIA) </b><br>
+<b> Calculo (SUMATORIA) </b><br>
 <a href="index.html"> Inicio </a> <br><br><br>
 
 <form name="formulario" action="calculo_submit.php" method="post">
